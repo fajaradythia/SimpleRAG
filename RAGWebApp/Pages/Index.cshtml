@@ -1,0 +1,21 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="chat-container">
+
+    <form method="post" class="chat-input">
+        <input type="text" name="Question" placeholder="Tanyakan sesuatu..." />
+        <button type="submit">Kirim</button>
+    </form>
+
+    @if (Model.Answer != null)
+    {
+        <div class="chat-answer">
+            @Model.Answer
+        </div>
+    }
+
+</div>

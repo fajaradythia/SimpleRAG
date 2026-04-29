@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - RAGChat</title>
+
+    <!-- Bootstrap (optional, masih dipakai untuk base) -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body class="chat-body">
+
+    <!-- 🔷 Header minimal -->
+    <header class="chat-header">
+        <div class="chat-header-inner">
+            <span class="chat-title">🤖 RAG Chat</span>
+        </div>
+    </header>
+
+    <!-- 🔷 Main Chat Area -->
+    <main class="chat-main">
+        @RenderBody()
+    </main>
+
+    <!-- Scripts -->
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

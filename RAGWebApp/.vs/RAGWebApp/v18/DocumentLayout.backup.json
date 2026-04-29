@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gitlab\\Scratch\\RAGWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B48209F0-30EA-2D92-4B51-8216E70B6924}|RAGWebApp.csproj|d:\\gitlab\\scratch\\ragwebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48209F0-30EA-2D92-4B51-8216E70B6924}|RAGWebApp.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48209F0-30EA-2D92-4B51-8216E70B6924}|RAGWebApp.csproj|d:\\gitlab\\scratch\\ragwebapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48209F0-30EA-2D92-4B51-8216E70B6924}|RAGWebApp.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48209F0-30EA-2D92-4B51-8216E70B6924}|RAGWebApp.csproj|d:\\gitlab\\scratch\\ragwebapp\\orchestration\\mcpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48209F0-30EA-2D92-4B51-8216E70B6924}|RAGWebApp.csproj|solutionrelative:orchestration\\mcpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48209F0-30EA-2D92-4B51-8216E70B6924}|RAGWebApp.csproj|d:\\gitlab\\scratch\\ragwebapp\\services\\ragservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48209F0-30EA-2D92-4B51-8216E70B6924}|RAGWebApp.csproj|solutionrelative:services\\ragservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48209F0-30EA-2D92-4B51-8216E70B6924}|RAGWebApp.csproj|d:\\gitlab\\scratch\\ragwebapp\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48209F0-30EA-2D92-4B51-8216E70B6924}|RAGWebApp.csproj|solutionrelative:services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48209F0-30EA-2D92-4B51-8216E70B6924}|RAGWebApp.csproj|d:\\gitlab\\scratch\\ragwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48209F0-30EA-2D92-4B51-8216E70B6924}|RAGWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48209F0-30EA-2D92-4B51-8216E70B6924}|RAGWebApp.csproj|d:\\gitlab\\scratch\\ragwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B48209F0-30EA-2D92-4B51-8216E70B6924}|RAGWebApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48209F0-30EA-2D92-4B51-8216E70B6924}|RAGWebApp.csproj|d:\\gitlab\\scratch\\ragwebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48209F0-30EA-2D92-4B51-8216E70B6924}|RAGWebApp.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Gitlab\\Scratch\\RAGWebApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Gitlab\\Scratch\\RAGWebApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T04:25:33.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Gitlab\\Scratch\\RAGWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Gitlab\\Scratch\\RAGWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwCEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T04:15:07.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Gitlab\\Scratch\\RAGWebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Gitlab\\Scratch\\RAGWebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAkwKgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-29T04:13:32.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Gitlab\\Scratch\\RAGWebApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\Gitlab\\Scratch\\RAGWebApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T04:11:05.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gitlab\\Scratch\\RAGWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Gitlab\\Scratch\\RAGWebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T04:00:35.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "McpService.cs",
+              "DocumentMoniker": "D:\\Gitlab\\Scratch\\RAGWebApp\\Orchestration\\McpService.cs",
+              "RelativeDocumentMoniker": "Orchestration\\McpService.cs",
+              "ToolTip": "D:\\Gitlab\\Scratch\\RAGWebApp\\Orchestration\\McpService.cs",
+              "RelativeToolTip": "Orchestration\\McpService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T03:59:54.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RagService.cs",
+              "DocumentMoniker": "D:\\Gitlab\\Scratch\\RAGWebApp\\Services\\RagService.cs",
+              "RelativeDocumentMoniker": "Services\\RagService.cs",
+              "ToolTip": "D:\\Gitlab\\Scratch\\RAGWebApp\\Services\\RagService.cs",
+              "RelativeToolTip": "Services\\RagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T03:57:43.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "D:\\Gitlab\\Scratch\\RAGWebApp\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "Services\\ChatService.cs",
+              "ToolTip": "D:\\Gitlab\\Scratch\\RAGWebApp\\Services\\ChatService.cs",
+              "RelativeToolTip": "Services\\ChatService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T03:57:42.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
