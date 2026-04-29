@@ -1,0 +1,2 @@
+# SimpleRAG
+Simple RAG Project
